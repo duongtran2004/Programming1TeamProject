@@ -1,0 +1,17 @@
+1. Error Handling for the Read Methods in the FileIOUtil class. Catching the FileNotExist Exception so that the method would return null in case the file does not exist. Update the remove and update methods accordingly since they use the read methods (What will they do in case the files do not exist?)
+2. Error Handling for User Input. Do not let them enter alphabetic letters where numbers are expected.
+3. Search for repetitive blocks of code and convert them into a method in the Utlity Class
+4. Read through the Utlity, Port Manager, System Admin, Administrative class to get a general idea of what the main methods are and what they do.
+5. Run the methods, fix any errors encountered.
+6. Fix all weak warnings.
+7. Provide comments on each method on their functions
+8. Fix the UML to match the app.
+9. The update methods in the System Admin, and the update trip method in the Port Manager class are not complete. Complete them: 
+a. Calculate how much fuel has been used in a day
+b. Calculate how much weight of each type of all containers
+ Please note that every time you update an object, you have to update any other object that uses it as an property.
+10. Add refuel method to the Port Manager Class which calls the refuel method in the vehicle class.
+11. Update the remove methods so that when an object is removed, other objects that use it as property are updated.
+12. When a trip is completed, it is only retained in the trip.json file for up to 7 days. Write a method that accomplishes this. This method will be called when Port Managers log in.
+13. Write report 
+14. Plan for video recording, record demonstration video 

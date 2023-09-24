@@ -1,0 +1,9 @@
+1. import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+ json file (save data)
+how our data being processed
+has menu class been done? or now we do it? or it is somewhere in the code ? Cause it is not in the task list? 
+
+
+What to learn? 
+JSON file IO + CRUD (create, read, update, delete)

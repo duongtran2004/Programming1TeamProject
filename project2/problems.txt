@@ -1,0 +1,24 @@
+option e:
+- chọn p: trở lại cái đầu, ko hiện tại cái port này có ai manage
+- chọn s -> enter manager Id -> cho username nhung lai hien password
+- chon q: đáng lẽ phải quit nhưng lại hiện ra 1 cái bảng
+------------------------------------------------------------
+|      ID      |    PORT ID   |   USERNAME   |   PASSWORD  |
+------------------------------------------------------------|  9228910832  |  p-1  |TrungLuong1999|  1234567890 |
+------------------------------------------------------------
+|  5025831918  |  p-3  | DuongTran2004| 1122334455 |
+------------------------------------------------------------
+|  4036242215  |  p-5  |  JohnDoe123  |  2244668800 |
+------------------------------------------------------------
+
+option f:
+- sort by storing:
++ chọn y -> chọn true: ascending => chọn ft -> chọn true/false for landing ability => quay trở lại cái ban đầu khi nó hỏi would you like to sort by storing
+				 => chọn s: search Port by ID (hoạt động bình thường)
+				 => chọn q: nó tạo 1 cái bảng ntn: 
+-------------------------------------------------------------------------------
+|      ID      |        NAME        | LANDING | LATITUDE |LONGITUDE| CAPACITY |
+-------------------------------------------------------------------------------
++ chọn n -> phương án giống hệt khi chọn y
+
+
